@@ -73,6 +73,7 @@ Open `src/data/config.ts` and edit the exported constants:
 | `CERTIFICATIONS` | Optional certifications row |
 | `PROJECTS` | Portfolio cards with slug, tags, gradient, live URL |
 | `BLOG_POSTS` | Inline markdown blog content with tags and reading time |
+| `TEMPLATE_BANNER` | Ribbon shown on the hosted demo — set `show: false` for your own site |
 
 Every page reads from this single source of truth — update once, reflect everywhere.
 

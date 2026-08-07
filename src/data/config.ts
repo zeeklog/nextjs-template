@@ -24,6 +24,16 @@ When I'm not pushing pixels, you'll find me bouldering, brewing pour-over coffee
   location: "San Francisco, CA",
 };
 
+// ─── Demo ribbon ─────────────────────────────────────────────
+/** Shown on the hosted preview only. Set show:false for your own site. */
+export const TEMPLATE_BANNER = {
+  show: true,
+  repoUrl: "https://github.com/cekuu35/free-nextjs-cv-template",
+  bundleLabel: "23 premium business templates — $79",
+  bundleUrl:
+    "https://cengokurtoglu.gumroad.com/l/vuhstz?wanted=true&utm_source=demo&utm_medium=banner&utm_campaign=free_cv_template",
+};
+
 // ─── Navigation ──────────────────────────────────────────────
 export const NAV_LINKS = [
   { label: "About", href: "/about" },

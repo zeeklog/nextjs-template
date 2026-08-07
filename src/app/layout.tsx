@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import NavBar from "@/components/NavBar";
 import Footer from "@/components/Footer";
+import TemplateBanner from "@/components/TemplateBanner";
 import { SITE } from "@/data/config";
 
 const inter = Inter({ subsets: ["latin"], display: "swap" });
@@ -73,6 +74,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
+        <TemplateBanner />
         <NavBar />
         <main id="main" className="flex-1">
           {children}
