@@ -56,6 +56,8 @@ npm run dev
 
 Or push to GitHub and import in [vercel.com/new](https://vercel.com/new) — no extra configuration needed.
 
+> Deployed? Before you share the link around, run the **[free 100-point website readiness scorecard](https://cekuu35.github.io/evidence-led-website-audit/scorecard.html?utm_source=github&utm_medium=readme&utm_campaign=aiweb_scorecard&utm_content=free_cv_template)** - no signup, nothing uploaded.
+
 ---
 
 ## Customize in One File
